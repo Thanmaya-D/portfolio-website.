@@ -33,6 +33,7 @@ portfolio-website/
 ---
 
 ## Open in browser
+https://thanmaya-d.github.io/portfolio-website./
 
 
 ## How to Run
